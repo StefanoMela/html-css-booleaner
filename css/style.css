@@ -69,3 +69,26 @@ thead th{
 .blue-back{
     background-color: #B1E5F2;
 }
+
+.last{
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+footer h3{
+    color: gray;
+}
+
+.first{
+    background-image: url(../img/monitor.jpg);
+}
+
+.second{
+    background-image: url(../img/graph.jpg);
+}
+
+.advice{
+    background-repeat: no-repeat;
+    height: 250px;
+}
