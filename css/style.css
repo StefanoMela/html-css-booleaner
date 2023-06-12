@@ -41,7 +41,7 @@ address {
     font-size: .8rem;
 }
 
-.images div {
+.images figure {
     display: inline-block;
     margin-bottom: 10px;
 }
