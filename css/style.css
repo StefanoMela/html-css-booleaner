@@ -1,94 +1,94 @@
 /* GENERAL STYLE */
-*{
+* {
     margin: 0;
 }
 
-.container{
+.container {
     max-width: 1200px;
     margin: auto;
 }
 
 /* SPECIFIC */
 
-.banner{
+.banner {
     height: 150px;
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
     position: relative;
 }
 
-.title{
+.title {
     margin-top: 20px;
 }
 
-.text-banner{
+.text-banner {
     position: absolute;
     bottom: 0;
     left: 25px;
     max-width: 150px;
 }
 
-address{
+address {
     font-style: normal;
     color: gray;
 }
 
-.blue-author{
+.blue-author {
     color: #4EA0FF;
 }
 
-.small-txt{
+.small-txt {
     font-size: .8rem;
 }
 
-.images div{
+.images div {
     display: inline-block;
     margin-bottom: 10px;
 }
 
-.highlight{
+.highlight {
     background-color: yellow;
 }
 
-.items{
+.items {
     margin: 20px 0px;
 }
 
-table{
+table {
     border-collapse: collapse;
     margin-bottom: 20px;
 }
 
-thead th{
+thead th {
     width: 33.333%;
     background-color: #1FA9E5;
     text-align: left;
     color: white;
 }
 
-.blue-back{
+.blue-back {
     background-color: #B1E5F2;
 }
 
-.last{
+.last {
     margin-top: 10px;
     color: white;
     font-weight: bold;
 }
 
-footer h3{
+footer h3 {
     color: gray;
 }
 
-.first{
+.first {
     background-image: url(../img/monitor.jpg);
 }
 
-.second{
+.second {
     background-image: url(../img/graph.jpg);
 }
 
-.advice{
+.advice {
     background-repeat: no-repeat;
     height: 250px;
 }
