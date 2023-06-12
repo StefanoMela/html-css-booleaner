@@ -76,8 +76,9 @@ thead th {
     font-weight: bold;
 }
 
-footer h3 {
+footer h4 {
     color: gray;
+    margin-bottom: 10px;
 }
 
 .first {
