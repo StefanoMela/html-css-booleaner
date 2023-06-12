@@ -17,6 +17,10 @@
     position: relative;
 }
 
+.title{
+    margin-top: 20px;
+}
+
 .text-banner{
     position: absolute;
     bottom: 0;
@@ -44,4 +48,24 @@ address{
 
 .highlight{
     background-color: yellow;
+}
+
+.items{
+    margin: 20px 0px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+thead th{
+    width: 33.333%;
+    background-color: #1FA9E5;
+    text-align: left;
+    color: white;
+}
+
+.blue-back{
+    background-color: #B1E5F2;
 }
